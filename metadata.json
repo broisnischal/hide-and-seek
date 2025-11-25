@@ -1,0 +1,7 @@
+{
+  "name": "NeonVertical - Realtime Multiplayer Demo",
+  "description": "A simulated realtime multiplayer lobby demonstrating movement synchronization, voice activity visualization, and chat, featuring an AI Game Commentator.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
